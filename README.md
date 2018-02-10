@@ -8,9 +8,9 @@
 
   ![DataBase Schema](https://sanaappweb.azurewebsites.net/Content/SQLDataBase.png)
 
-2. Development
+## SQL DataBase
 
-TODO LIST:
+1. TODO LIST:
 
  * Perform additional validations to avoid saving repeated data.
 
