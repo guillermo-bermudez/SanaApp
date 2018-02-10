@@ -8,7 +8,7 @@
 
   ![DataBase Schema](https://sanaappweb.azurewebsites.net/Content/SQLDataBase.png)
 
-## SQL DataBase
+## Development
 
 1. TODO LIST:
 
