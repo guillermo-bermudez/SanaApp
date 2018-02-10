@@ -8,7 +8,7 @@
 
 1. DataBase Schema
 
-  ![DataBaseSchema](https://sanaappweb.azurewebsites.net/Content/SQLDataBases.png)
+  ![DataBaseSchema](https://sanaappweb.azurewebsites.net/Content/SQLDataBase.png)
 
 ## Development
 
