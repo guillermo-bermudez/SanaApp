@@ -54,7 +54,10 @@ namespace SanaApp.WEB.Controllers
         {
             if (id == null)
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
-            Products products = db.Products.Find(id);
+
+            ProductsVirtual vP = new ProductsVirtual();
+            Products products = vP.GetProduct(Convert.ToInt32(id));
+
             if (products == null)
                 return HttpNotFound();
             return View(products);
